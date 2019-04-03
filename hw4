@@ -2,3 +2,11 @@ The piece of work I am taking a look at is the BBC's article following Brunei's 
 
 This piece of work visualised the data for countries which punished same sex relations.
 
+![bbc chart](https://user-images.githubusercontent.com/47171384/55488608-f218b500-5662-11e9-9825-10eb18455454.png)
+
+However, the issue with this data visualisation is that it is too oversimplified. It just notes which countries have crimilised homosexulaity, without mentioning to what extent.
+
+The text underneath the map chart notes which countries have death as punishment, but you would not get the information from looking at the chart alone. Thus I have created me own chart. The countries in green have laws against homosexuality but not punishable by death, but those in red do carry death as a punishment.
+
+
+
